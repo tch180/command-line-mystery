@@ -26,5 +26,11 @@ Interviewed ms chruch
 13 results found 
 
 ## suspect was at least 6 feet tall
+## blue honda 
+* 2 suspects Jermey Bowers Joe Germuska
 
-# grep -A 5
+
+# grep "Jeremy Bowers" AAA Fitness_Galaxy Delta_Skymiles
+* Has memberships to both AA and Delta_SkyMiles
+Suspect is Jeremy Bowers
+
